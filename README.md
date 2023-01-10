@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sibiuoL
+- 👋 Hi, I’m @sibiueoL
 - 👀 I’m interested in cats
 - 🌱 I’m currently learning python, mysql, html
 
