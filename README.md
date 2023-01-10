@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @shibiwoL
 - 👀 I’m interested in cats
-- 🌱 I’m currently learning python, mysql
+- 🌱 I’m currently learning python, mysql, html
 
 <!---
 - 💞️ I’m looking to collaborate on ... none at the moment...
